@@ -44,7 +44,7 @@ export default class Customers extends Component {
                 Click to View Details
 
               </Button>
-
+              <p>Test Changes</p>
             </Panel.Body>
           </Panel>)
         }
