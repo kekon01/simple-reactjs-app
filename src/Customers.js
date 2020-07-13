@@ -45,6 +45,7 @@ export default class Customers extends Component {
 
               </Button>
               <p>Test Changes</p>
+              <h3>I made another Changes</h3>
             </Panel.Body>
           </Panel>)
         }
