@@ -45,9 +45,10 @@ export default class Customers extends Component {
 
               </Button>
               <p>Test Changes</p>
+
               <p>Test Changes Kenny1</p>
               <p>Test Changes Kenny2</p>
-              <h3>I made another Changes</h3>
+             <h3>I made another Changes from doug</h3>
              <h2>Kenny</h3>
             </Panel.Body>
           </Panel>)
